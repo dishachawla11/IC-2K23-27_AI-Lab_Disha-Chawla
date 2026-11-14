@@ -1,5 +1,5 @@
 ## Aim
-To study and implement different search algorithms used in Artificial Intelligence using Python programming.
+To study and implement different search algorithms used in Artificial Intelligence using Python Programming.
 
 ## Outputs
 
