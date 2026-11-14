@@ -1,7 +1,7 @@
 ## Aim
 To study and implement different search algorithms used in Artificial Intelligence using Python programming.
 
-## Output
+## Outputs
 
 ### 1. Breadth First Search (BFS)
 <img width="575" height="195" alt="image" src="https://github.com/user-attachments/assets/c7c964cf-26d3-40c4-821e-c0086ae6ce6f" />
